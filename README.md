@@ -1,5 +1,5 @@
 # Projeto_14_chatbot_com_streamlit
-# Nexus AI - Chatbot com Streamlit
+#NEXUS_AI
 
 Assistente virtual desenvolvido em Python utilizando **Streamlit** para a interface de utilizador e a API da **Groq** para processamento de linguagem natural. O projeto conta com um tema escuro customizado e persistência de dados local com SQLite.
 
